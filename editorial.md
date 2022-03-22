@@ -13,6 +13,10 @@
 
 ## ![2](https://user-images.githubusercontent.com/4417431/159480764-988028d3-5238-42f2-981f-8e25d6a47aa8.png)번. Binary Game 2
 
+_출제자: jh05013_
+
+_최고 득점자: watson_amelia (0분, 0점)_
+
 만점을 받으려면 **C++, Java, Swift, Ruby로 모두 컴파일 가능한 하나의 코드**를 제출해야 한다. 이런 코드를 [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing))이라고 한다.
 
 ### C++ & Swift
@@ -95,6 +99,10 @@ cpp_code
 
 ## ![5](https://user-images.githubusercontent.com/4417431/159481133-ea41767d-f5be-49a3-ad41-b51112e6c92b.png)번. Baekjoon Wordline Judge
 
+_출제자: jh05013_
+
+_최고 득점자: mori_calliope (0분, 0점)_
+
 [Wordle](https://en.wikipedia.org/wiki/Wordle) 275 3/6
 
 ```
@@ -116,3 +124,27 @@ cpp_code
 ## ![11](https://user-images.githubusercontent.com/4417431/159481708-96effd29-70d8-4964-b218-5ab76438a444.png)번. 하이퍼하게 누울 하이퍼 자리를 찾아라
 
 ## ![12](https://user-images.githubusercontent.com/4417431/159480900-7a162c89-02fd-4ff0-aff9-88145c359537.png)번. 🅰➕🅱
+
+_출제자: jh05013_
+
+_최고 득점자: gawr_gura (0분, 0점)_
+
+_에디토리얼도 이모지로 작성하려고 했으나, 이모지 파싱을 설명하는 게 너무 복잡해서 그냥 한국어로 작성합니다._
+
+이모지로 쓰인 A와 B를 읽고, A+B의 값을 최소 개수의 이모지로 출력하는 문제이다(🖨️📏📉👍📈👎). 이모지는 Twemoji 13.1을 기준으로 하며(👀🕒🐦1️⃣3️⃣⏺️1️⃣), 더하기나 빼기 등의 기호는 무시한다(🖼️➖👀❌➕👀❌💬). A와 B를 구성하는 이모지는 각각 최대 100개이다(🅰️📏🅱️📏1️⃣〰️💯).
+
+사용되는 이모지는 다음과 같다.
+- 💯 (100)
+- 🧑‍🏫 (22). 일부 브라우저에서는 🧑와 🏫가 나란히 놓인 모습으로 보이지만, 실제로는 🧑, [ZWJ](https://en.wikipedia.org/wiki/Zero-width_joiner), 🏫로 이루어진 하나의 3바이트 글자이다. 피부 색이나 성별이 다른 버전까지 포함하여 총 18종류가 있으며, 피부 색이 다른 버전은 🧑 뒤에 skin tone modifier가 붙어서 길이가 4바이트이다.
+- 🏪 (24)
+- 🏎️ (3). 위의 💯 등과는 달리 뒤에 [VS16](https://en.wikipedia.org/wiki/Variation_Selectors_(Unicode_block))이 붙어서 2바이트이다.
+- 🥇 (1), 🥈 (2), 🥉 (3)
+- 🎱 (8)
+- 🎰 (777)
+- 📟 (40404)
+- 📆 (17), 📅 (17)
+- 🔞 (18)
+- 🔂 (1)
+- 0️⃣ (0), ..., 🔟 (10). 이중 🔟을 제외한 나머지는 ASCII 숫자, VS16, [combining enclosing keycap](https://www.compart.com/en/unicode/U+20E3)으로 이루어진 3바이트 글자이다.
+- 🔢 (1234)
+-  (109). [Shibuya emoji](https://emojipedia.org/shibuya/)로, 일부 브라우저에서는 표시되지 않을 수 있다.
