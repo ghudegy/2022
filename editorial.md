@@ -29,6 +29,6 @@
 
 ## ![10](https://user-images.githubusercontent.com/4417431/159481986-271660e3-5667-4f1a-b417-a6a84718f2db.png)번. 제1회 구데기그릇 (짝수형)
 
-## ![11](https://user-images.githubusercontent.com/4417431/159481708-96effd29-70d8-4964-b218-5ab76438a444.png)번. 하이퍼 누울 하이퍼 자리를 찾아라
+## ![11](https://user-images.githubusercontent.com/4417431/159481708-96effd29-70d8-4964-b218-5ab76438a444.png)번. 하이퍼하게 누울 하이퍼 자리를 찾아라
 
 ## ![12](https://user-images.githubusercontent.com/4417431/159480900-7a162c89-02fd-4ff0-aff9-88145c359537.png)번. 🅰➕🅱
