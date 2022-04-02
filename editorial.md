@@ -1,6 +1,6 @@
 # 진짜 최종 구데기컵 2 2 에디토리얼
 
-(하고 싶은 말)
+(여기에 주최자가 하고 싶은 말 입력)
 
 ## 들어가기 전에
 
@@ -11,14 +11,14 @@
 
 ## ![1](https://user-images.githubusercontent.com/4417431/159480297-0b813cb4-d176-47c8-aa5d-50ba1b943c48.png)번. 한별 찍기
 _출제자: shiftpsh,_
-_최고 득점자: shiftpsh (0분, 0점)_
+_최고 득점자: mirusu (0분, 222,222점)_
 
 예제에 주어진 한별이를 그대로 출력하면 됩니다. 노 솔브 방지용 문제입니다.
 
 ## ![2](https://user-images.githubusercontent.com/4417431/159480764-988028d3-5238-42f2-981f-8e25d6a47aa8.png)번. Binary Game 2
 
 _출제자: jh05013,_
-_최고 득점자: watson_amelia (0분, 0점)_
+_최고 득점자: sait2000 (112분, 222,222점)_
 
 만점을 받으려면 **C++, Java, Swift, Ruby로 모두 컴파일 가능한 하나의 코드**를 제출해야 한다. 이런 코드를 [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing))이라고 한다.
 
@@ -99,7 +99,7 @@ cpp_code
 ## ![3](https://user-images.githubusercontent.com/4417431/159481765-13b348f4-29cb-45fb-81b3-0dec2141c30f.png)번. Fewest Moves Challenge
 
 _출제자: kipa00,_
-_최고 득점자: kipa00 (0분, 0점)_
+_득점자 없음_
 
 Fewest Moves Challenge를 알아야 할 것처럼 방대한 분량으로 잔뜩 설명되어 있는데, **다 필요없고** [Thistlethwaite's 4-phase Algorithm](https://www.jaapsch.net/puzzles/thistle.htm)이 평균 31 회전 정도에 큐브를 맞추므로 이 알고리즘을 구현하면 됩니다. 신의 수를 구하는 데 사용되어 익히 알려진 [Kociemba's 2-phase Algorithm](http://kociemba.org/twophase.htm)은 모든 큐브를 30 회전 안에 맞출 수 있으나, 전처리 과정이 너무 길고 `constexpr` 등을 사용할 경우 파일의 크기가 너무 커져서 이 문제에서는 사용이 거의 불가능합니다.
 
@@ -148,7 +148,7 @@ Phase 2와 마찬가지로, 코너와 엣지를 쪼개어 계산하면 됩니다
 ## ![4](https://user-images.githubusercontent.com/4417431/159481027-fedee281-4f4a-4d7f-8b8e-427eefebd0a9.png)번. _multiple_ edges
 
 _출제자: kipa00,_
-_최고 득점자: kipa00 (0분, 0점)_
+_최고 득점자: pjshwa (22분, 222,222점)_
 
 이 문제를 아무런 제약조건 없이 그냥 풀려고 하면 [링크 컷 트리](https://en.wikipedia.org/wiki/Link/cut_tree)를 사용해야 하고, 이마저도 시간 복잡도가 O(_q_ log _n_)이기 때문에 **500ms**의 시간 제한에 통과되기에는 역부족입니다.
 
@@ -170,7 +170,7 @@ _최고 득점자: kipa00 (0분, 0점)_
 ## ![5](https://user-images.githubusercontent.com/4417431/159481133-ea41767d-f5be-49a3-ad41-b51112e6c92b.png)번. Baekjoon Wordline Judge
 
 _출제자: jh05013,_
-_최고 득점자: mori_calliope (0분, 0점)_
+_최고 득점자: runnie0427 (5분, 222,222점)_
 
 [Wordle](https://en.wikipedia.org/wiki/Wordle) 275 3/6
 
@@ -182,14 +182,14 @@ _최고 득점자: mori_calliope (0분, 0점)_
 
 ## ![6](https://user-images.githubusercontent.com/4417431/159481232-3aa3fdf6-af20-47e2-8a8f-6f316b091f06.png)번.  (=BOJ 문제 번호)
 _출제자: shiftpsh,_
-_최고 득점자: shiftpsh (0분, 0점)_
+_최고 득점자: sharaelong (4분, 222,222점)_
 
 제출 번호가 몇 번이 부여될지 예상하고 잘 제출해야 합니다. 제출이 몰리지 않는 시간대에 시도한다면 맞을 가능성이 더 높아질 수 있습니다.
 
 ## ![7](https://user-images.githubusercontent.com/4417431/159481340-8269345b-2208-4ab4-9291-8be95fcb5e09.png)번. 문제 이름
 
 _출제자: cozyyg,_
-_최고 득점자: ninomae_inanis (0분, 0점)_
+_최고 득점자: cologne (84분, 222,222점)_
 
 같은 번호, 같은 이름과 같은 지문의 문제 중 더 위에 있는 문제였습니다. 출제자가 다른데, 위에 있는 문제는 실제로 출제자가 현재 훈련소에서 훈련을 받고 있고, 아래에 있는 문제는 출제자가 최근에 훈련소에서 수료했습니다.
 
@@ -209,7 +209,7 @@ _최고 득점자: ninomae_inanis (0분, 0점)_
 
 ## ![8](https://user-images.githubusercontent.com/4417431/159481340-8269345b-2208-4ab4-9291-8be95fcb5e09.png)번. 문제 이름
 _출제자: shiftpsh,_
-_최고 득점자: shiftpsh (0분, 0점)_
+_최고 득점자: havana723 (2분, 222,222점)_
 
 같은 번호, 같은 이름과 같은 지문의 문제 중 더 아래에 있는 문제였습니다. 출제자가 다른데, 위에 있는 문제는 실제로 출제자가 현재 훈련소에서 훈련을 받고 있고, 아래에 있는 문제는 출제자가 최근에 훈련소에서 수료했습니다.
 
@@ -239,7 +239,7 @@ solved.ac 슬랙/디스코드에 훈련소 편지 작성 링크를 미리 공지
 ## ![9](https://user-images.githubusercontent.com/4417431/159481562-1cf2838c-8b4e-42b1-b87f-bfbc2743f59f.png)번. 제1회 구데기그릇 (홀수형)
 
 _출제자: jh05013, kipa00,_
-_최고 득점자: takanashi_kiara (0분, 0점)_
+_최고 득점자: ??? (0분, 0점)_
 
 ### 문제 1
 
@@ -418,13 +418,13 @@ _출제자: jh05013_
 ## ![10](https://user-images.githubusercontent.com/4417431/159481986-271660e3-5667-4f1a-b417-a6a84718f2db.png)번. 제1회 구데기그릇 (짝수형)
 
 _출제자: kipa00, jh05013,_
-_최고 득점자: takanashi_kiara (0분, 0점)_
+_최고 득점자: ??? (0분, 0점)_
 
 _Marked as duplicate._
 
 ## ![11](https://user-images.githubusercontent.com/4417431/159481708-96effd29-70d8-4964-b218-5ab76438a444.png)번. 하이퍼하게 누울 하이퍼 자리를 찾아라
 _출제자: shiftpsh,_
-_최고 득점자: shiftpsh (0분, 0점)_
+_최고 득점자: sait2000 (76분, 222,222점)_
 
 [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)의 11차원 버전입니다. 입력이 sparse하게 들어온다는 차이점이 있습니다. 이를 잘 이용해 봅시다.
 
@@ -456,7 +456,7 @@ _최고 득점자: shiftpsh (0분, 0점)_
 ## ![12](https://user-images.githubusercontent.com/4417431/159480900-7a162c89-02fd-4ff0-aff9-88145c359537.png)번. 🅰➕🅱
 
 _출제자: jh05013,_
-_최고 득점자: gawr_gura (0분, 0점)_
+_최고 득점자: alex9801 (237분, 222,222점)_
 
 _에디토리얼도 이모지로 작성하려고 했으나, 이모지 파싱을 설명하는 게 너무 복잡해서 그냥 한국어로 작성합니다._
 
