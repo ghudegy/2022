@@ -17,8 +17,7 @@ _최고 득점자: shiftpsh (0분, 0점)_
 
 ## ![2](https://user-images.githubusercontent.com/4417431/159480764-988028d3-5238-42f2-981f-8e25d6a47aa8.png)번. Binary Game 2
 
-_출제자: jh05013_
-
+_출제자: jh05013,_
 _최고 득점자: watson_amelia (0분, 0점)_
 
 만점을 받으려면 **C++, Java, Swift, Ruby로 모두 컴파일 가능한 하나의 코드**를 제출해야 한다. 이런 코드를 [polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing))이라고 한다.
@@ -170,8 +169,7 @@ _최고 득점자: kipa00 (0분, 0점)_
 
 ## ![5](https://user-images.githubusercontent.com/4417431/159481133-ea41767d-f5be-49a3-ad41-b51112e6c92b.png)번. Baekjoon Wordline Judge
 
-_출제자: jh05013_
-
+_출제자: jh05013,_
 _최고 득점자: mori_calliope (0분, 0점)_
 
 [Wordle](https://en.wikipedia.org/wiki/Wordle) 275 3/6
@@ -240,8 +238,7 @@ solved.ac 슬랙/디스코드에 훈련소 편지 작성 링크를 미리 공지
 
 ## ![9](https://user-images.githubusercontent.com/4417431/159481562-1cf2838c-8b4e-42b1-b87f-bfbc2743f59f.png)번. 제1회 구데기그릇 (홀수형)
 
-_출제자: jh05013, kipa00_
-
+_출제자: jh05013, kipa00,_
 _최고 득점자: takanashi_kiara (0분, 0점)_
 
 ### 문제 1
@@ -420,8 +417,7 @@ _출제자: jh05013_
 
 ## ![10](https://user-images.githubusercontent.com/4417431/159481986-271660e3-5667-4f1a-b417-a6a84718f2db.png)번. 제1회 구데기그릇 (짝수형)
 
-_출제자: kipa00, jh05013_
-
+_출제자: kipa00, jh05013,_
 _최고 득점자: takanashi_kiara (0분, 0점)_
 
 _Marked as duplicate._
@@ -459,8 +455,7 @@ _최고 득점자: shiftpsh (0분, 0점)_
 
 ## ![12](https://user-images.githubusercontent.com/4417431/159480900-7a162c89-02fd-4ff0-aff9-88145c359537.png)번. 🅰➕🅱
 
-_출제자: jh05013_
-
+_출제자: jh05013,_
 _최고 득점자: gawr_gura (0분, 0점)_
 
 _에디토리얼도 이모지로 작성하려고 했으나, 이모지 파싱을 설명하는 게 너무 복잡해서 그냥 한국어로 작성합니다._
