@@ -24,6 +24,10 @@
 
 ## 세부 사항
 
+### [24904](https://www.acmicpc.net/problem/24904). Baekjoon Wordline Judge
+* **재채점**
+  * 채점기 시각을 기준으로 매일 자정에 정답이 바뀌므로 재채점하지 않습니다.
+
 ### [24910](https://www.acmicpc.net/problem/24910). 하이퍼하게 누울 하이퍼 자리를 찾아라
 
 * **지문**
