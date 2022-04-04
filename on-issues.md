@@ -6,11 +6,11 @@
 |---|------|--------|:--------:|:----------:|:--------------:|:-----:|
 | [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 | shiftpsh | ✅ | ✅ | ⬜️ | ✅ |
 | [24901](https://www.acmicpc.net/problem/24901) | Binary Game 2 | jh05013 | ? | ? | ? | ? |
-| [24902](https://www.acmicpc.net/problem/24902) | Fewest Moves Challenge | kipa00 | ? | ? | ? | ? |
-| [24903](https://www.acmicpc.net/problem/24903) | multiple edges | kipa00 | ? | ? | ? | ? |
+| [24902](https://www.acmicpc.net/problem/24902) | Fewest Moves Challenge | kipa00 | 🤔 | ❌ | ✅ | ✅ |
+| [24903](https://www.acmicpc.net/problem/24903) | multiple edges | kipa00 | 🤔 | ❌ | ❌ | ❌ |
 | [24904](https://www.acmicpc.net/problem/24904) | Baekjoon Wordline Judge | jh05013 | ? | ? | ? | ❌ |
 | [24905](https://www.acmicpc.net/problem/24905) | 24905번 문제 | shiftpsh | ✅ | ⬜️ | ✅ | ✅ |
-| [24906](https://www.acmicpc.net/problem/24906) | 문제 이름 | cozyyg | ? | ? | ? | ? |
+| [24906](https://www.acmicpc.net/problem/24906) | 문제 이름 | cozyyg | ❌ | ✅ | ❌ | ✅ |
 | [24907](https://www.acmicpc.net/problem/24907) | 문제 이름 | shiftpsh | ✅ | ⬜️ | ✅ | ✅ |
 | [24908](https://www.acmicpc.net/problem/24908) | 제1회 구데기그릇 (홀수형) | jh05013, kipa00 | ? | ? | ? | ? |
 | [24909](https://www.acmicpc.net/problem/24909) | 제1회 구데기그릇 (짝수형) | jh05013, kipa00 | ? | ? | ? | ? |
@@ -24,9 +24,33 @@
 
 ## 세부 사항
 
+### [24902](https://www.acmicpc.net/problem/24902). Fewest Moves Challenge
+* **지문**
+  * 규칙 및 스크램블에 관한 설명은 사소한 맞춤법 수정이 아닌 한 별도로 수정하지 않습니다.
+* **데이터**
+  * 지문에 예제 이외의 데이터가 10개라고 명시되어 있으므로, 데이터 수정 및 추가 요청은 받지 않습니다.
+
+### [24903](https://www.acmicpc.net/problem/24903). **multiple** edges
+* **지문**
+  * *multiple* edges라는 표현에 대한 수정 요청은 의도되었습니다.
+  * 이외 사소한 맞춤법 및 오탈자 수정은 환영합니다.
+* **데이터**
+  * 데이터가 이미 충분히 강하므로 수정 및 추가 요청은 받지 않습니다.
+* **인터랙터**
+  * 인터랙터는 특정 조건을 만족하는 코드가 시간 안에 통과되도록 까다롭게 짜여져 있습니다. 따라서 수정 요청을 받지 않습니다.
+* **재채점**
+  * 데이터와 인터랙터에 대한 수정 요청을 받지 않으므로, 재채점을 진행할 이유가 없습니다.
+
 ### [24904](https://www.acmicpc.net/problem/24904). Baekjoon Wordline Judge
 * **재채점**
   * 채점기 시각을 기준으로 매일 자정에 정답이 바뀌므로 재채점하지 않습니다.
+
+### [24906](https://www.acmicpc.net/problem/24906). 문제 이름
+* **지문**
+  * 지문의 개인 정보는 출제자의 허락을 받았습니다.
+  * 지문이 이렇게 작성된 것은 의도되었습니다. 따라서 수정 요청은 받지 않습니다.
+* **스페셜 저지**
+  * SPJ가 지문에 드러나 있으므로 SPJ에 대한 수정 요청은 받지 않습니다.
 
 ### [24910](https://www.acmicpc.net/problem/24910). 하이퍼하게 누울 하이퍼 자리를 찾아라
 
