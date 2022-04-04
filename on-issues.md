@@ -11,7 +11,7 @@
 | [24904](https://www.acmicpc.net/problem/24904) | Baekjoon Wordline Judge | jh05013 | ? | ? | ? | ❌ |
 | [24905](https://www.acmicpc.net/problem/24905) | 24905번 문제 | shiftpsh | ✅ | ⬜️ | ✅ | ✅ |
 | [24906](https://www.acmicpc.net/problem/24906) | 문제 이름 | cozyyg | ? | ? | ? | ? |
-| [24907](https://www.acmicpc.net/problem/24907) | 문제 이름 | shiftpsh | ❌ | ⬜️ | ✅ | ✅ |
+| [24907](https://www.acmicpc.net/problem/24907) | 문제 이름 | shiftpsh | ✅ | ⬜️ | ✅ | ✅ |
 | [24908](https://www.acmicpc.net/problem/24908) | 제1회 구데기그릇 (홀수형) | jh05013, kipa00 | ? | ? | ? | ? |
 | [24909](https://www.acmicpc.net/problem/24909) | 제1회 구데기그릇 (짝수형) | jh05013, kipa00 | ? | ? | ? | ? |
 | [24910](https://www.acmicpc.net/problem/24910) | 하이퍼하게 누울 하이퍼 자리를 찾아라 | shiftpsh | 🤔 | ✅ | ⬜️ | ✅ |
