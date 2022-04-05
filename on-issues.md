@@ -4,7 +4,7 @@
 
 | # | 제목 | 출제자 | 지문 수정 | 데이터 수정/보완 | 스페셜 저지 수정 | 재채점 |
 |---|------|--------|:--------:|:----------:|:--------------:|:-----:|
-| [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 | shiftpsh | ✅ | ✅ | ⬜️ | ✅ |
+| [24900](https://www.acmicpc.net/problem/24900) | 한별 찍기 | shiftpsh | ✅ | ❌ | ⬜️ | ❌ |
 | [24901](https://www.acmicpc.net/problem/24901) | Binary Game 2 | jh05013 | ✅ | ❌ | ⬜️ | ❌ |
 | [24902](https://www.acmicpc.net/problem/24902) | Fewest Moves Challenge | kipa00 | 🤔 | ❌ | ✅ | ✅ |
 | [24903](https://www.acmicpc.net/problem/24903) | multiple edges | kipa00 | 🤔 | ❌ | ❌ | ❌ |
@@ -23,6 +23,12 @@
 * ⬜️: 해당 사항 없음.
 
 ## 세부 사항
+
+### [24900](https://www.acmicpc.net/problem/24900). 한별 찍기
+* **데이터**
+  * 줄 앞/뒤 공백은 의도되었습니다.
+* **재채점**
+  * 추가할 데이터가 없으므로 할 재채점도 없습니다.
 
 ### [24901](https://www.acmicpc.net/problem/24901). Binary Game 2
 * **데이터**
