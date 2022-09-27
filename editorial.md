@@ -43,32 +43,8 @@ Ruby는 한 줄 주석으로 `#`을, 여러 줄 주석으로 `=begin`과 `=end`�
 
 어차피 `#`은 C++에서도 헤더를 include하기 위해 쓰일 테니까, iostream을 include하는 동시에 Ruby에서 주석인 공간을 만들자. 같은 줄에 `/*`을 쓰면 그 다음 줄은 Ruby에서만 주석이 아닌 공간이 되므로 자유롭게 Ruby 코드를 작성할 수 있다. 그 다음 줄에 `=begin`으로 Ruby 주석을 시작하고, `*/`으로 C++ 주석을 닫으면 C++ 코드를 작성할 수 있다. 이제 같은 방식으로 `=end`를 넣어주면 된다.
 
-```
-#include <iostream> /*
-ruby_code
-=begin
-*/
-cpp_code
-/*
-=end
-# */
-```
-
 ### C++ & Swift & Ruby
 `#if true`와 `#endif`는 C++과 Swift에서 모두 유효한 지시문이다. 따라서 위의 두 테크닉을 적절히 조합하여 풀 수 있다.
-
-```
-#if true /*
-ruby_code
-=begin
-/* */
-cpp_code
-// */ swift_code
-#endif
-/*
-=end
-# */
-```
 
 ### C++ & Java
 Java에서는 모든 문자를 `\uxxxx`의 형태로 쓸 수 있다. 심지어 개행 문자도 `\u000a`으로 쓸 수 있고, Java는 이를 진짜로 개행 문자로 취급하고 `//` 주석을 해제한다. 이를 사용하면 C++에서만 주석인 공간을 쉽게 만들 수 있다.
@@ -85,21 +61,6 @@ cpp_code
 이제 C++ & Swift & Ruby 코드에 위의 `\u000a` 테크닉을 적용하여 Java 코드를 넣어주면 된다. 우연히도 `//`는 Ruby에서 empty regex로 인식하기 때문에, `//; #`을 사용하여 모든 언어에서 주석인 공간을 만들 수 있다. 여기에 `\u000a`를 쓰면 Java에서만 주석이 아닌 공간이 만들어진다.
 
 그 다음 줄부터는 모든 공간을 주석으로 만들어야 한다. 그러려면 주석이 해제될 때마다 주석을 다시 달아야 하고, 이는 `// \u000a /*`로 해결할 수 있다.
-
-```
-//; # \u000a java_code /*
-#if true /*
-ruby_code
-=begin
-/* */ // \u000a /*
-cpp_code
-// */
-// */ swift_code // \u000a /*
-#endif
-/*
-=end
-# */
-```
 
 ## ![3](https://user-images.githubusercontent.com/4417431/159481765-13b348f4-29cb-45fb-81b3-0dec2141c30f.png)번. Fewest Moves Challenge
 
